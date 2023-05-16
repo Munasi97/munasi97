@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
--👀I’m interested in becoming a fullstack web developer.<br>-🌱 I’m currently learning diverse languages through the ALX Software Engineering program.<br>-💞️ I’m looking to collaborate on anything in the near future to further advance my SE skills.<br>-📫 How to reach me via my email nashesithole97@gmail.com .
+👀I’m interested in and yet to becoming a fullstack web developer.<br>
+🌱 I’m currently learning diverse languages through the ALX Software Engineering program.<br>
+💞️ I’m looking to collaborate on anything in the near future to further advance my SE skills.<br>
+📫 How to reach me via my email nashesithole97@gmail.com .
 
 
 ## 🌐 Socials:

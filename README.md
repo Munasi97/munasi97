@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/Nashesi97_?logo=twitter&style=for-the
 
 ---
 
-<h3>**My Github Statistics**</h3>
+**My Github Statistics**
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=munasi97&show_icons=true&theme=tokyonight" 

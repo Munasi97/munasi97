@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me via my email nashesithole97@gmail.com .
 
 <p align="center">
-  <a href="http://twitter.com/Nashesi97">
-    <img src="https://img.shields.io/badge/follow-%40Nashesi97%+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Munashe's Twitter"/>
-  </a>
+  <a href="https://www.github.com/munasi97" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/munasi97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Nashesi97" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Nashesi97_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 </p>
 
 

@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👀 I’m interested in becoming a fullstack web developer.
+- 🌱 I’m currently learning diverse languages through the ALX Software Engineering program.
+- 💞️ I’m looking to collaborate on anything in the near future to further advance my SE skills.
+- 📫 How to reach me via my email nashesithole97@gmail.com .
+
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=munasi97&show_icons=true&theme=tokyonight" 
 />

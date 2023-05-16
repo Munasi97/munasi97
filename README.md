@@ -20,6 +20,19 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on anything in the near future to further advance my SE skills.
 - 📫 How to reach me via my email nashesithole97@gmail.com .
 
+<p align="center">
+  <a href="http://twitter.com/Nashesi97">
+    <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Munashe's Twitter"/>
+  </a>
+</p>
+
+
+
+
+
+---
+
+<h3>**My Github Statistics**</h3>
 
 <img 
    src="https://github-readme-stats.vercel.app/api?username=munasi97&show_icons=true&theme=tokyonight" 
